@@ -14,5 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-[Uploading homeworkout_latest.zip…]()
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/52839335/136227221-59c6fef6-607b-4a87-8802-385b79d3c55b.gif)
